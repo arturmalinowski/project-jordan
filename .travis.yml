@@ -5,5 +5,5 @@ jdk:
   - oraclejdk8
 deploy:
   provider: heroku
-  api_key: 9b3e23d0-37e5-4f0d-8097-eb7dfa84ca57
-  app: project-jordan
+  api_key: 62be733d-4b45-4352-aa8c-33072f15e969
+  app: jordan-reborn
